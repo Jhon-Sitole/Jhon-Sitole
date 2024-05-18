@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jhon-Sitole
+- 👋 Hi, I’m @Joao Jose-Sitole
 - 👀 I’m interested in programming, i am studying comuter engineering at the University of Zambeze.
 - 🌱 I’m currently learning how to develop apps and website development.
 - 💞️ I’m looking to collaborate on helping those need support in programming, with Projetos and much. 
